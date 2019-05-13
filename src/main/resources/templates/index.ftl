@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 
@@ -52,7 +52,7 @@
             };
 
             ws.onopen = function(evt) {//链接时
-                alert("连接成功");
+                alert("连接成功...");
             };
         }else{
             alert("请输入您的昵称");
