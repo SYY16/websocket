@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿<!DOCTYPE html>
-=======
 <!DOCTYPE html>
->>>>>>> 1acd0d99c206a0a204bd35a08bf64f4f4022044e
 <html>
 <head>
 
@@ -56,17 +52,10 @@
             };
 
             ws.onopen = function(evt) {//链接时
-<<<<<<< HEAD
-                alert("连接成功...");
-            };
-        }else{
-            alert("请输入您的昵称！！");
-=======
                 alert("连接成功");
             };
         }else{
             alert("请输入您的昵称");
->>>>>>> 1acd0d99c206a0a204bd35a08bf64f4f4022044e
         }
     }
 
